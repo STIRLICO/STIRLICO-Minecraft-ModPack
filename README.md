@@ -9,8 +9,6 @@
   <summary>Automatization</summary>
   <br>
   
-  - **Sort** — I forget from I donwload :(
-  
   - **Auto Clicker** — Relatively complete auto clicker for Minecraft that avoid abusing game mechanics and prefers vanilla like interactions [[mod](https://modrinth.com/mod/auto-clicker)]
   
   - **Inventory Profiles Next** — Take control over you inventory. Sort. Move matching Items. Throw all. Locked slots. Gear sets! And much more. [[mod](https://modrinth.com/mod/inventory-profiles-next)]
